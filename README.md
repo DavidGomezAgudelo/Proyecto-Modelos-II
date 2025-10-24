@@ -1,7 +1,7 @@
 # Proyecto-Modelos-II
 
-##David Gomez Agudelo
+## David Gomez Agudelo
 
-##Santiago Trespalacios Bolivar
+## Santiago Trespalacios Bolivar
 
-##Juan Diego Duque Jimenez
+## Juan Diego Duque Jimenez
